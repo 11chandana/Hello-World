@@ -1,2 +1,2 @@
 # Hello-World
-Making some updates to README file for testing purpose
+This is just an example, making some updates to README file for testing purpose. 
